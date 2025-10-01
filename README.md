@@ -1,0 +1,1 @@
+// meu nome e leones ribeiro segundo , tenho 18 anos nao sou bom em programaçao mas sou esforçado e aos poquinhos estou começando a aprender 

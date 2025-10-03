@@ -1,2 +1,6 @@
 /* na aula de segunda 29/09/25,  aprendi a diferença entre git e github conheci as funcionalidades do git e a importancia do vesionamento de codigo , aprendir  a intalar na maquina e  iniciar o primeiro repositorio local algum codiogos basicos como git init(inicializar o repositorio),git commit(salvar um check point) ,git add(adicionar ao reposirorio ),git log., git list entre outros e no final pegar esses codigos e jogar no git hub para ser uma repositorio online .
+
 /*
+
+
+// aula 2 : nao tem alteraçao nao e ? 

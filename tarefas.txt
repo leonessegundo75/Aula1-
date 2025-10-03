@@ -3,3 +3,5 @@
 // estudar para porva de robson
 
 // sair no fds
+
+// git e muito dificil 
